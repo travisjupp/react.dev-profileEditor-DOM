@@ -7,3 +7,8 @@ This form switches between two modes: in the editing mode, you see the inputs, a
 Your task is to reimplement it in React (see solution: https://github.com/travisjupp/react.dev-profileEditor-React).
 
 Forked from: https://react.dev/learn/reacting-to-input-with-state#profile-editor
+
+Related:
+
+- https://github.com/travisjupp/react.dev-profileEditor-DOM
+- https://github.com/travisjupp/react.dev-profileEditor-React
